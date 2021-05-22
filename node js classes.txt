@@ -1,0 +1,13 @@
+cmd commnads:
+node --version
+
+npm --version
+
+**npm stands for node package manager:
+its to run javascriot outside browser
+
+**tabulator.info: for advanced design of tables, html tables are simple tables these are advanced.
+
+**best practice for js file name convention: app.js or script.jss
+
+**to see results of js file go to cmd>write node app.js>enter
