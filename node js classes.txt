@@ -15,3 +15,6 @@ go to that folder where js file is located>open cmd from URL bar>write node app.
 
 ** try searching and implementing behance.com for making ur portfolio for mentor meetup n for job interview
 **my behance pwd: Beh@nce224466
+
+** js runs in browser by default.
+node js ko outside browser run kerti hai.
