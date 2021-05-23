@@ -10,4 +10,8 @@ its to run javascriot outside browser
 
 **best practice for js file name convention: app.js or script.jss
 
-**to see results of js file go to cmd>write node app.js>enter
+**to see results of js file:
+go to that folder where js file is located>open cmd from URL bar>write node app.js on command promt>enter
+
+** try searching and implementing behance.com for making ur portfolio for mentor meetup n for job interview
+**my behance pwd: Beh@nce224466
