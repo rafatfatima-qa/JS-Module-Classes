@@ -19,9 +19,10 @@ if (mycolor == "Red") {
     alert("This is Yellow Light!");
   }
 
-  else (mycolor == "White" || mycolor == "Blue" || mycolor == " ")
+  else if (mycolor == "White" || mycolor == "Blue" || mycolor == "String.length(0);"){
 
     alert("Oops this is not a traffic light color!");
+  }
 }
 
 

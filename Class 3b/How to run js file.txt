@@ -1,0 +1,5 @@
+to run js file:
+
+- go to cmd of same folder where ur JS file is.
+- write node app.js
+- ur output will be displayed on cmd
